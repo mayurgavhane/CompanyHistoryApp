@@ -1,6 +1,6 @@
 ## Company History App
 
-This is a simple React application that displays random historical facts about Capgemini.
+This is a simple React application that displays random historical facts about Company.
 
 ### Prerequisites
 
@@ -27,6 +27,6 @@ The application will be available at `http://localhost:5173` (or another port if
 
 ### Features
 
-- Displays random historical facts about Capgemini
+- Displays random historical facts about Company
 - Click the refresh button or reload the page to see a new fact
 - Responsive design that works on all screen sizes
