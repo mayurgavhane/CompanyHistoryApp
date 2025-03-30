@@ -1,4 +1,4 @@
-## Capgemini History App
+## Company History App
 
 This is a simple React application that displays random historical facts about Capgemini.
 
