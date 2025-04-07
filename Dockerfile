@@ -1,3 +1,5 @@
+FROM node:20-slim as builder
+
 WORKDIR /app
 
 # Copy package files
